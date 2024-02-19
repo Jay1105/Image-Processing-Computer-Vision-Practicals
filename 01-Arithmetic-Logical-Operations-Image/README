@@ -1,0 +1,13 @@
+Aim: 
+To Perform Basic Image Processing Operations in Python. 
+
+Problem Statement: 
+Develop a Python program utilizing the OpenCV library to manipulate images.
+
+The program should address the following tasks:
+1.Read random image(s).
+2.Display the before & after image(s) used in every task below.
+3.Convert the image to grayscale.
+4.Implement image cropping functionality.
+5.Perform arithmetic operations on the images - Addition & Subtraction.
+6.Implement logical operations on the image(s) - AND, OR, NOT & XOR.
